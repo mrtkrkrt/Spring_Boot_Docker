@@ -36,6 +36,5 @@ docker container run -d -p 8080:8080 myorg/myapp:0.0.1:RELEASE
 * Docker Repo: Like Github repo
 * Docker Container: Runtime instance of a docker image
 * DockerFile: File with instructions to create docker image
-* image
+* ![image](https://github.com/mrtkrkrt/Spring_Boot_Docker/assets/55550212/8f01cb83-e85b-4a24-9ff6-a0299c5954de)
 
-### Spring Boot Implementation
